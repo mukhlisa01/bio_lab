@@ -1,0 +1,975 @@
+/* ******************* */
+@media (max-width:1400px) {
+    .container{
+        max-width: 1140px;
+    }
+    
+    .gen-title{
+        font-size: 28px;
+    }
+    
+    .gen-subt{
+        font-size: 18px;
+    }
+   
+    .footer .contact{
+        max-width: 1000px;
+    }
+    
+    .header .navbar {
+        margin: 40px 0 60px;
+    }
+    
+    .header .navbar .nav-link{
+        font-size: 17px;
+    }
+    
+    .main-title h1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    
+    .header .navbar {
+        margin: 40px 0;
+    }
+    
+    .main .blue-shape{
+        max-width: 383px;
+        min-height: 865px;
+    }
+    
+    .main .blue-shape .icons {
+        right: 0;
+        transform: translateY(-50%);
+    }
+    
+    .sub-text{
+        max-width: 480px;
+    }
+    
+    .products-wrapper {
+        margin: 30px 0 50px;
+    }
+    
+    .products-item-price .price-amount .discount{
+        font-size: 15px;
+    }
+    
+    .products-item-price .price-amount h4{
+        font-size: 33px;
+    }
+    
+    .products-item{
+        margin-bottom: 30px;
+    }
+    
+    .customers{
+        padding: 100px 0;
+    }
+    
+    .customers-item-wrapper{
+        justify-content: center;
+    }
+    
+    .partners-img{
+        height: 370px;
+    }
+    
+    .partners-logos-img img {
+        margin: 25px 0;
+    }
+    
+    .customers-item,
+    .news-card{
+        margin:  0 35px 70px;
+    }
+    
+    .partners-about .catalog-title {
+        margin-bottom: 20px;
+    }
+    
+    .news-card-wrapper,
+    .partners-logo,
+    .products-wrapper{
+        justify-content: center;
+    }
+    
+    .partners-logo a{
+        margin: 0 10px;
+    }
+    
+    .certificate-imgs .container .imgs-wrapper .certificate-card{
+        margin: 20px 0;
+    }
+    
+    .description .container{
+        padding: 60px 28px 20px;
+    }
+    
+    .products-sorted .products-wrapper .products-item{
+        margin: 25px 10px;
+    }
+    
+    .partners-about-txt{
+        font-size: 17px;
+        line-height: 28px;
+    }
+    
+    .products-sorted {
+        padding: 50px 0 70px;
+    }
+    
+    .products-item{
+        margin: 10px;
+    }
+    
+    .centrifuges .container .centrifuges-title .gen-title {
+        font-size: 34px;
+    }
+    
+    .products-number{
+        font-size: 16px;
+    }
+    
+    .about-us-links-card,
+    .team-wrapper .team-card{
+        margin-bottom: 30px;
+    }
+    
+    .about-us-links-card{
+        margin: 10px;
+        padding: 0 30px 0 30px;
+    }
+    
+    .about-us-links .cards-wrapper{
+        margin: 30px 0 0px;
+        justify-content: center;
+    }
+    
+    .footer{
+        padding: 200px 0 45px
+    }
+    
+    .footer .contact{
+        padding: 45px;
+    }
+}
+
+
+/* ******************* */
+@media (max-width:1020px) {
+    .container,
+    .footer .contact,
+    .small-container{
+        max-width: 767px;
+    }
+    
+    .gen-btn{
+        max-width: 140px;
+    }
+    
+    .gen-btn a{
+        font-size: 13px;
+    }
+    
+    
+    .main .blue-shape .icons {
+        right: 10%;
+        transform: translateY(-40%);
+    }
+    
+    
+    .navbar>.container{
+        flex-wrap: wrap;
+    }
+    
+    .header .navbar {
+        margin: 10px 0;
+    }
+    
+    .navbar-brand{
+        margin-bottom: 10px;
+        max-width: 150px;
+    }
+    
+    .main .blue-shape {
+        max-width: 270px;
+        min-height: 820px;
+    }
+    
+    .main .blue-shape .icons a{
+        font-size: 20px;
+        padding: 14px 0;
+    }
+    
+    .main .container .start-info .buttons{
+        margin: 20px 0 30px;
+    }
+    
+    .sub-text{
+        font-size: 14px;
+    }
+    
+    .partners{
+        margin: 75px 0;
+    }
+    
+    .partners-logo a{
+        margin-bottom: 30px;
+    }
+    
+    .partners-logo {
+        margin: 30px 22px;
+    }
+    
+    .about-us-links .cards-wrapper{
+        justify-content: space-between;
+    }
+    
+    .choose-info .main-title h1{
+        margin: 0 0 10px;
+    }
+    
+    .main-title h1 {
+        font-size: 35px;
+        line-height: 43px;
+    }
+    
+    .choose-info .gen-btn {
+        margin-top: 6px;
+    }
+    
+    .products {
+        margin: 85px 0;
+    }
+    
+    .partners-indicator button i {
+        font-size: 30px;
+    }
+    
+    .choose-img a:first-child img{
+        margin: 30px 0;
+    }
+    
+    .customers {
+        padding: 70px 0;
+    }
+    
+    .customers-title{
+        margin-bottom: 100px;
+    }
+    
+    .news {
+        padding: 50px 0 220px;
+    }
+    
+    .news-btn{
+        margin-top: 10px;
+    }
+    
+    .news-card-wrapper{
+        margin: 50px 0 0px;
+    }
+    
+    .news-card{
+        max-width: 250px;
+        height: 330px;
+        margin: 10;
+    }
+    
+    .news-card-content {
+        max-width: 200px;
+        padding: 17px 15px 17px;
+        bottom: 17px;
+        left: 25px;
+    }
+    
+    .news-card-content-title {
+        font-size: 13px;
+    }
+    
+    .news-card-content-date{
+        margin-bottom: 4px;
+    }
+    
+    .centrifuges .row .container .contrifuges-small-imgs{
+        display: flex;
+    }
+    
+    .footer .contact-info .gen-title h3 {
+        font-size: 27px;
+    }
+    
+    .footer .contact-info .contact-text{
+        font-size: 13px;
+    }
+    
+    .footer-menu-info{
+        margin-bottom: 40px;
+    }
+    
+    .footer .container .footer-menu-info .footer-logo img{
+        margin-bottom: 18px;
+    }
+    
+    .footer .container .footer-menu-icons {
+        margin-top: 30px;
+    }
+    
+    .footer .container .footer-menu-title h5{
+        font-size: 23px;
+        padding-bottom: 18px;
+    }
+    
+    .footer .container .footer-menu-text{
+        font-size: 15px;
+    }
+    
+    .products-sorted-categories .products-dropdowns div button i {
+        margin-left: 20px;
+    }
+    
+    .products-sorted-categories .products-dropdowns button.filter-btn {
+        padding: 15px 0 28px;
+    }
+    
+    .centrifuges .container .centrifuges-title .gen-subt {
+        font-size: 15px;
+    }
+    
+    .centrifuges .products-number{
+        margin-top: 4px;
+    }
+    
+    .centrifuges .row .container .centrifuges-info .products-item-price {
+        margin: 0px 0 10px;
+    }
+    
+    .centrifuges .row .container .centrifuges-info .order-num{
+        margin-bottom: 20px;
+    }
+    
+    .description .container .descr-btns button{
+        padding: 12px 50px;
+    }
+    
+    .description .container .descr-btns button a {
+        font-size: 14px;
+    }
+    
+    .popular {
+        padding-bottom: 220px;
+    }
+    
+    .partners-about .row .small-container{
+        margin: 25px 0 35px;
+    }
+    
+    .partners-logos {
+        padding: 45px 0 20px;
+    }
+    
+    .contact-input input.email, .request .contact-input input {
+        margin-bottom: 25px;
+    }
+    
+    .request {
+        padding-bottom: 240px;
+    }
+    
+    .about-us-links .cards-wrapper{
+        margin: 20px 0;
+    }
+    
+    .about-us-links-card{
+        max-width: 220px;
+        padding: 0 20px;
+        margin: 10px 0 ;
+    }
+    
+    .about-us-links-card .card-title {
+        font-size: 23px;
+    }
+    
+    .about-us-links-card .card-subt {
+        font-size: 16px;
+        padding-bottom: 17px;
+    }
+    
+    .about-title {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    
+    .team {
+        padding-bottom: 140px;
+    }
+    
+    .mission {
+        padding-bottom: 220px;
+    }
+    
+    .goals .small-container .goals-content {
+        margin: 30px 0;
+    }
+    
+    .certificate-imgs .container .imgs-wrapper .certificate-card:nth-child(11), .certificate-imgs .container .imgs-wrapper .certificate-card:last-child{
+        display: none;
+    }
+    
+    .contact .container .contact-countries-btn{
+        margin: 20px;
+    }
+    
+    .contact .container .contact-countries{
+        margin: 20px 0 35px;
+    }
+    
+    .contact .small-container .contact-details-item .item-title{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    
+    .contact .small-container .contact-details-item .item-subtitle{
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: 25px;
+    }
+    
+    .contact .small-container .contact-details{
+        padding: 50px 0 200px;
+    }
+    
+    .blog .container .products-sorted-categories{
+        margin: 16px 0 45px;
+    }
+    
+    .about-history-box {
+        margin: 40px 0;
+    }
+    
+    .article .small-container .article-btns {
+        margin: 50px 0 230px;
+    }
+    
+    .article .small-container .article-btns button p{
+        font-size: 18px;
+    }
+    
+    .article .small-container .article-btns button i {
+        font-size: 30px;
+    }
+    
+    .certificate-imgs .container .imgs-wrapper .certificate-card {
+        max-width: 300px;
+    }
+}
+
+
+/* ******************** */
+@media (max-width:800px) {
+    .container,
+    .footer .contact,
+    .small-container{
+        max-width: 576px;
+    }
+    
+    .header .navbar {
+        margin: 15px 0;
+    }
+    
+    .main-title h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    
+    .main .blue-shape{
+        min-height: 575px;
+    }
+    
+    .gen-title {
+        font-size: 22px;
+    }
+    
+    .gen-subt{
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    
+    .gen-btn{
+        padding: 8px 0;
+    }
+    
+    
+    
+    .partners-logo img{
+        max-width: 200px;
+        width: 100%;
+    }
+    
+    .products {
+        margin: 55px 0;
+    }
+    
+    .products-wrapper {
+        margin: 40px 0 20px;
+    }
+    
+    .products-item{
+        max-width: 250px;
+        padding: 20px;
+    }
+    
+    .products-item-title h5{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .products-item-content{
+        margin: 15px 0 0;
+    }
+    
+    .products-item-price .price-amount h4 {
+        font-size: 25px;
+    }
+    
+    .products-item-price .price-amount .discount,
+    .products-item-subt {
+        font-size: 13px;
+    }
+    
+    .customers {
+        padding: 55px 0 0;
+    }
+    
+    
+    
+    .news-card{
+        margin: 10px;
+    }
+    
+    .footer .contact {
+        padding: 30px;
+    }
+    
+    .gen-subt {
+        font-size: 14px;
+    }
+    
+    .footer {
+        padding: 155px 0 40px;
+    }
+    
+    .footer .contact-info .gen-title h3 {
+        font-size: 23px;
+    }
+    
+    .contact-input input, .contact-input textarea {
+        padding: 12px 10px 12px 20px;
+    }
+    
+    .contact-input .gen-btn{
+        padding: 6px 0;
+        max-width: 130px;
+    }
+    
+    .main-menu .catalog-cards-wrapper .catalog-card{
+        max-width: 250px;
+        padding: 15px 20px;
+    }
+    
+    .main-menu .catalog-cards-wrapper .catalog-card-title{
+        font-size: 20px;
+        margin: 12px 0;
+    }
+    
+    .main-menu .catalog-cards-wrapper .catalog-card-text {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .products-sorted-categories .products-sort{
+        margin-top: 10px;
+    }
+    
+    .products-sorted-categories {
+        margin: 0;
+    }
+    
+    .products-sorted-categories .products-dropdowns{
+        margin: 30px 0 10px;
+    }
+    
+    .products-sorted-categories, .products-sorted-categories .products-dropdowns{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .products-sorted-categories .products-dropdowns button.filter-btn {
+        padding: 15px 23px 15px;
+    }
+    
+    .products-sorted-indicators {
+        margin-top: 25px;
+    }
+    
+    .products-sorted-indicators button {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    
+    .centrifuges .row .container{
+        margin: 40px 0;
+    }
+    
+    .sub-text {
+        line-height: 22px;
+    }
+    
+    .centrifuges .row .container .centrifuges-info .order-btns button {
+        max-width: 190px;
+    }
+    
+    .description .container .descr-txt p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    
+    .centrifuges .container .centrifuges-title .gen-title {
+        font-size: 28px;
+    }
+    
+    .partners-img {
+        height: 270px;
+        margin-bottom: 10px;
+    }
+    
+    .partners-about-txt {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    
+    .partners-logos-img img {
+        margin: 25px 0;
+    }
+    
+    .request .row .container .request-form .contact-input {
+        margin: 20px 0;
+    }
+    
+    .request {
+        padding-bottom: 215px;
+    }
+    
+    .team-wrapper {
+        margin: 35px 0 15px;
+    }
+    
+    .team-wrapper .team-card {
+        max-width: 250px;
+    }
+    
+    .team-wrapper .team-card .card-title {
+        padding: 14px 0 0px;
+    }
+    
+    .about-us-links .cards-wrapper {
+        margin: 20px 0;
+    }
+    
+    
+    .certificates .about-us-links-card {
+        max-width: 250px;
+        padding: 0 0px 10px 20px;
+    }
+    
+    .certificate-imgs .container .imgs-wrapper {
+        padding-bottom: 200px;
+    }
+    
+    .certificate-imgs .container .imgs-wrapper .certificate-card{
+        max-width: 250px;
+        height: 340px;
+    }
+    
+    .centrifuges-info{
+        margin: 20px 0;
+    }
+    
+    .article .small-container .article-btns {
+        margin: 30px 0 200px;
+    }
+    
+    .article .small-container .article-btns button p {
+        font-size: 17px;
+    }
+    
+    .article .small-container .article-btns button i {
+        font-size: 25px;
+    }
+    
+    .article .small-container .article-btns button i.fa-chevron-right {
+        padding-left: 15px;
+    }
+    
+    .article .small-container .article-btns button i.fa-chevron-left {
+        padding-right: 15px;
+    }
+    
+    .centrifuges .row .container,
+    .centrifuges .row .container .contrifuges-small-imgs{
+        justify-content: center;
+    }
+    
+    .footer {
+        padding: 200px 0 10px;
+    }
+    
+    .footer .contact{
+        top: -140px;
+    }
+    
+    .footer .contact-info{
+        margin-bottom: 15px;
+    }
+}
+
+
+/* ****************** */
+@media (max-width:576px) {
+    .gen-btn {
+        max-width: 110px;
+    }
+    
+    .gen-title {
+        font-size: 20px;
+    }
+    
+    .main-title h1 {
+        font-size: 28px;
+        line-height: 28px;
+    }
+    
+    .partners {
+        margin: 45px 0;
+    }
+    
+    .partners-logo {
+        margin: 20px 0px;
+    }
+    
+    .partners-indicator-icons {
+        margin: 0 10px;
+    }
+    
+    .partners-indicator-icons i,
+    .partners-indicator button i{
+        font-size: 20px;
+    }
+    
+    .products {
+        margin: 35px 0;
+    }
+    
+    .products-item-title h5 {
+        height: 35px;
+    }
+    
+    .customers-item {
+        max-width: 350px;
+        padding: 65px 20px 25px 25px;
+    }
+    
+    .customers-item-text {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 18px;
+    }
+    
+    .news {
+        padding: 25px 0 220px;
+    }
+    
+    .news-card-wrapper {
+        margin: 30px 0;
+        justify-content: center;
+    }
+    
+    .news-card{
+        margin: 10px 10px 10px 10px;
+    }
+    
+    .footer .contact{
+        padding: 20px;
+        max-width: 400px;
+        top: -200px;
+    }
+    
+    .footer {
+        padding: 300px 0 10px;
+    }
+    
+    .footer .contact-info{
+        margin-bottom: 15px;
+    }
+    
+    .footer .container .footer-menu-title h5 {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    
+    .footer .container .footer-menu-text {
+        font-size: 14px;
+    }
+    
+    .footer .container .footer-menu-info .copyright {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    
+    .footer .container .footer-menu-icons {
+        margin-top: 20px;
+    }
+    
+    .main-menu .catalog-cards-wrapper{
+        margin: 20px 0 0;
+    }
+    
+    .main-menu .catalog-cards-wrapper .catalog-card {
+        margin-bottom: 20px;
+    }
+    
+    .products-sorted {
+        padding: 30px 0 45px;
+    }
+    
+    .products-sorted .products-wrapper .products-item {
+        margin: 15px 0;
+    }
+    
+    .products-wrapper {
+        margin: 28px 0 0px;
+    }
+    
+    .partners-about .row .small-container {
+        margin: 0;
+    }
+    
+    .partners-img{
+        margin-bottom: 10px;
+    }
+    
+    .partners-logos {
+        padding: 35px 0 20px;
+    }
+    
+    .partners-logos-img img {
+        margin: 10px 0;
+    }
+    
+    .about-us-links .cards-wrapper{
+        justify-content: center;
+    }
+    
+    .about-us-links-card{
+        margin: 10px;
+    }
+    
+    .about-history-box.margin {
+        margin: 30px 0 245px;
+    }
+    
+    .about-title {
+        font-size: 20px;
+        line-height: 0px;
+    }
+    
+    .team {
+        padding-bottom: 165px;
+    }
+    
+    .team-card{
+        margin-bottom: 17px;
+    }
+    
+    .main-menu .catalog-cards-wrapper .catalog-card {
+        max-width: 210px;
+    }
+    
+    .goals .small-container .goals-content-img {
+        margin-right: 25px;
+    }
+    
+    .about-us-links-card .card-title{
+        font-size: 20px;
+        padding: 20px 0;
+    }
+    
+    .about-us-links-card .card-subt{
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    
+    .team-wrapper .team-card .card-title{
+        font-size: 15px;
+        padding-top: 5px;
+    }
+    
+    .team-wrapper .team-card .card-subt{
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+    
+    .contact .container .contact-countries {
+        margin: 10px 0 25px;
+    }
+    
+    .contact .container .contact-countries-btn {
+        margin: 9px;
+    }
+    
+    .contact .small-container .contact-details {
+        padding: 30px 0 200px;
+    }
+    
+    .contact .small-container .contact-details-item .item-title {
+        font-size: 20px;
+        line-height: 15px;
+    }
+    
+    .contact .small-container .contact-details-item .item-subtitle {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 20px;
+    }
+    
+    .blog .container .products-sorted-categories {
+        margin: 0px 0 10px;
+    }
+    
+    .news-card{
+        margin-bottom: 10px;
+    }
+    
+    .about-history-box {
+        margin: 15px 0;
+    }
+    
+    .article .small-container .article-btns {
+        margin: 30px 0 228px;
+    }
+    
+    .article .small-container .article-btns button p {
+        font-size: 14px;
+    }
+    
+    .article .small-container .article-btns button i {
+        font-size: 20px;
+    }
+    
+    .description .container .descr-btns button {
+        max-width: 180px !important;
+    }
+    
+    
+}
